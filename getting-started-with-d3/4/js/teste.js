@@ -1,9 +1,3 @@
-/*
-*    main.js
-*    Mastering Data Visualization with D3.js
-*    2.7 - Loading external data
-*/
-
 d3.json("data/ages.json").then(data => {
 	
     data.forEach(d => {
