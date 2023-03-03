@@ -4,7 +4,7 @@ This is a study repository of data visualization using the library D3.js (versio
 
 ## Sections
 
-1. [Getting Started with D3](getting-started-with-d3)
+1. [Getting Started with D3]((1)%20getting-started-with-d3)
     - basic of D3 and interaction with SVG.
-2. [Scales and axes](scales-and-axes)
+2. [Scales and axes]((2)%20scales-and-axes)
     - creating a bar chart from a external database.
